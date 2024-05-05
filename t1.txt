@@ -1,2 +1,2 @@
 welcome
-this is se lab.
+this is se lab.clear
